@@ -4,7 +4,7 @@ digital preservation of LOMO modules. [in a future]
 
 . - . - . - . - . - . - . - . - . - . - . - . - . - .
 
-4 conditions to join:
+3 conditions to join:
 
 1º LOMO audio module from somewhere
 
@@ -12,4 +12,4 @@ digital preservation of LOMO modules. [in a future]
 
 3º reverse engineering knownledge
 
-4º be a nerd
+0º be a nerd
